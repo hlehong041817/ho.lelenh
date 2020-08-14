@@ -1,0 +1,2964 @@
+{
+  "1.1": {
+    "name": "LÊ Minh Giác (THUỶ TỔ)",
+    "2.1": {
+      "name": "LÊ Minh Tâm",
+      "3.1": {
+        "name": "LÊ Thiềm (Minh Chính)-Nguyễn Thị Trường",
+        "4.1": {
+          "name": "LÊ Dòng (Minh Lương)-Nguyễn Thị Luẫy-Lưu Thị Mi",
+          "5.1": {
+            "name": "LÊ Duệ (Minh Đạo)-Nguyễn Thị Hộ",
+            "6.1": {
+              "name": "LÊ Tựu (Minh Huệ)-Lưu Thị Văn",
+              "7.1": {
+                "name": "LÊ Tu (Minh Thiện)-Nguyễn Thị Tóc",
+                "8.1": {
+                  "name": "LÊ Giai (Minh Phúc)-Nguyễn Thị Long",
+                  "9.1": {
+                    "name": "LÊ Viết Thiềng (Lệnh Hinh)"
+                  },
+                  "9.2": {
+                    "name": "LÊ Viết Nhâm (Lệnh Hương)"
+                  },
+                  "9.3": {
+                    "name": "LÊ Viết Tấn (Lệnh Hành)",
+                    "10.1": {
+                      "name": "LÊ Viết Tám (Lệnh Quyền)"
+                    },
+                    "10.2": {
+                      "name": "LÊ Thị Dưỡng"
+                    },
+                    "10.3": {
+                      "name": "LÊ Thị Dân"
+                    },
+                    "10.4": {
+                      "name": "LÊ Thị Văn"
+                    }
+                  },
+                  "9.4": {
+                    "name": "LÊ Thị Ninh"
+                  },
+                  "9.5": {
+                    "name": "LÊ Thị Kỷ"
+                  }
+                },
+                "8.2": {
+                  "name": "LÊ Thị Phưng"
+                }
+              },
+              "7.2": {
+                "name": "LÊ Thị Bảng"
+              },
+              "7.3": {
+                "name": "LÊ Thị Chiêu"
+              },
+              "7.4": {
+                "name": "LÊ Thị Quyên"
+              }
+            },
+            "6.2": {
+              "name": "LÊ Thị Quang"
+            }
+          },
+          "5.2": {
+            "page": 91,
+            "name": "LÊ Xa (Minh Chí)-Nguyễn Thị Dặt",
+            "6.1": {
+              "name": "LÊ Chỉ (Minh Thệnh)-??? Hựu thú Phúc ấm xã-Nguyễn Thị Lệch",
+              "7.1": {
+                "name": "LÊ Thị Xảo"
+              },
+              "7.2": {
+                "name": "LÊ Phần (Văn Lục)-LÊ Thị Thu (hựu thú)-Nguyễn Thị Chân",
+                "8.1": {
+                  "name": "LÊ Kiếm",
+                  "page": "end"
+                },
+                "8.2": {
+                  "name": "LÊ Khiêm (Lệnh Kim)",
+                  "page": "end"
+                },
+                "8.3": {
+                  "name": "LÊ Cấm (Lệnh Doãn)",
+                  "9.1": {
+                    "name": "LÊ Viết Toại (Lệnh Toại)",
+                    "page": "end"
+                  },
+                  "9.2": {
+                    "name": "LÊ Viết Sung (Lệnh Đễ)-Vũ Thị Xa",
+                    "10.1": {
+                      "name": "LÊ Viết Na (Lệnh Na)",
+                      "page": "end",
+                      "11.1": {
+                        "name": "LÊ Thị"
+                      }
+                    },
+                    "10.2": {
+                      "name": "LÊ Viết Ngự (Lệnh Ngự)",
+                      "11.1": {
+                        "name": "LÊ Lệnh Danh",
+                        "page": "end"
+                      },
+                      "11.2": {
+                        "name": "LÊ Lệnh Thanh",
+                        "12.1 ": {
+                          "name": "LÊ Lệnh Duỳnh",
+                          "13.1  ": {
+                            "name": "LÊ Lệnh Thẩm",
+                            "page": "end"
+                          },
+                          "13.2": {
+                            "name": "LÊ Lệnh Thám",
+                            "14.1": {
+                              "name ": "LÊ Lệnh Phán",
+                              "15.1": {
+                                "name ": "LÊ Lệnh n"
+                              },
+                              "15.2": {
+                                "name ": "LÊ Lệnh Sơn",
+                                "16.1": {
+                                  "name ": "LÊ Lệnh Hà",
+                                  "17.1": {
+                                    "name ": "LÊ Lệnh Giáp"
+                                  },
+                                  "17.2": {
+                                    "name ": "LÊ Lệnh Cường"
+                                  }
+                                },
+                                "16.2": {
+                                  "name ": "LÊ Lệnh Minh"
+                                }
+                              },
+                              "15.3": {
+                                "name ": "LÊ Lệnh Đoàn",
+                                "16.1": {
+                                  "name ": "LÊ Lệnh Du",
+                                  "17.1": {
+                                    "name ": "LÊ Lệnh Sang"
+                                  },
+                                  "17.2": {
+                                    "name ": "LÊ Lệnh Sinh"
+                                  }
+                                },
+                                "16.2": {
+                                  "name ": "LÊ Lệnh Thu",
+                                  "17.1": {
+                                    "name ": "LÊ Lệnh Thăng"
+                                  },
+                                  "17.2": {
+                                    "name ": "LÊ Lệnh Vượng"
+                                  }
+                                }
+                              }
+                            },
+                            "14.2": {
+                              "name ": "LÊ Lệnh Chén",
+                              "15.1": {
+                                "name ": "LÊ Lệnh Mến",
+                                "16.1": {
+                                  "name ": "LÊ Lệnh Hinh",
+                                  "page": "end"
+                                },
+                                "16.2": {
+                                  "name ": "LÊ Lệnh Thương",
+                                  "17.1": {
+                                    "name ": "LÊ Lệnh Trường"
+                                  },
+                                  "17.2": {
+                                    "name ": "LÊ Lệnh Quỳnh"
+                                  }
+                                },
+                                "16.3": {
+                                  "name ": "LÊ Lệnh Thuận"
+                                },
+                                "16.4": {
+                                  "name ": "LÊ Lệnh Long"
+                                },
+                                "16.5": {
+                                  "name ": "LÊ Lệnh Thành"
+                                }
+                              },
+                              "15.2": {
+                                "name ": "LÊ Lệnh Kính",
+                                "16.1": {
+                                  "name ": "LÊ Lệnh Học"
+                                },
+                                "16.2": {
+                                  "name ": "LÊ Lệnh Dũng"
+                                }
+                              }
+                            },
+                            "14.3": {
+                              "name ": "LÊ Lệnh Én",
+                              "15.1": {
+                                "name  ": "LÊ Lệnh Ong",
+                                "page": "end"
+                              },
+                              "15.1 ": {
+                                "name  ": "LÊ Lệnh Toả",
+                                "16.1": {
+                                  "name  ": "LÊ Lệnh Thực"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "12.2 ": {
+                          "name": "LÊ Lệnh Huy",
+                          "page": "end"
+                        }
+                      }
+                    },
+                    "10.3": {
+                      "name": "LÊ Viết Da (Lệnh Da)",
+                      "page": "end"
+                    },
+                    "10.4": {
+                      "name": "LÊ Viết Bưởi (Lệnh Bưởi)",
+                      "page": "end"
+                    },
+                    "10.5": {
+                      "name": "LÊ Thị Thư"
+                    },
+                    "10.6": {
+                      "name": "LÊ Thị Si"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "5.3": {
+            "page": 103,
+            "name": "LÊ Hoàng (Minh Đức)-Lưu Thị Vĩnh (hựu vi)-Lưu Thị Bỉnh",
+            "6.1": {
+              "name": "LÊ Viết Để (Hưng Học - Minh Nghĩa)-???",
+              "7.1": {
+                "name": "LÊ Thị Tư"
+              },
+              "7.2": {
+                "name": "LÊ Thị Trà"
+              },
+              "7.3": {
+                "name": "LÊ Thị Thang"
+              },
+              "7.4": {
+                "name": "LÊ Thị Ấm"
+              },
+              "7.5": {
+                "name": "LÊ Thị Trinh"
+              },
+              "7.6": {
+                "name": "LÊ Viết Siêu (Lệnh Thức)-???",
+                "page": "end",
+                "8.1": {
+                  "name": "LÊ Thị Vỹ"
+                },
+                "8.2": {
+                  "name": "LÊ Thị Tỷ"
+                }
+              }
+            },
+            "6.2": {
+              "name": "LÊ Viết Xưng (Lệnh Vọng - Đoan Mẩn)-Nguyễn Thùy",
+              "7.1": {
+                "name": "LÊ Viết Ánh (Lệnh Danh)-Nguyễn Thi Dong",
+                "8.1": {
+                  "name": "LÊ Viết Thưởng (Lệnh Quán)-Nguyễn Thị Duệ",
+                  "page": "end",
+                  "9.1": {
+                    "name": "LÊ Thị ???"
+                  }
+                },
+                "8.2": {
+                  "name": "LÊ Viết Thuẩn (Lệnh Cầu)-Nguyễn thị Rượu",
+                  "page": "end"
+                },
+                "8.3": {
+                  "name": "LÊ Viết Hiển (Lệnh Thuý)-Nguyễn Thị Nênh",
+                  "9.1": {
+                    "name": "LÊ Viết Chí (Lệnh Chí - Lệnh Đềnh)-Nguyễn Thị Thạch",
+                    "10.1": {
+                      "name": "LÊ Viết Sinh (Lệnh Sinh)-Nguyễn Thị Chinh",
+                      "11.1": {
+                        "name": "LÊ Viết Hinh (Lệnh Hinh)-Nguyễn Thị Thuận",
+                        "12.1": {
+                          "name": "LÊ Viết Dính (Lệnh Dinh)-Nguyễn Thị Như-Nguyễn Thị Tựu",
+                          "13.1": {
+                            "name": "LÊ Viết Canh (Lệnh Canh)",
+                            "page": "end"
+                          },
+                          "13.2": {
+                            "name": "LÊ Viết Vi (Lệnh Vi)-Nguyễn Thị Nhâm-LÊ Thị Lành",
+                            "14.1": {
+                              "name": "LÊ Viết Ca (Lệnh Ca)-Trịnh Thi Khuy-Nguyễn Thị Vở-LÊ Thị Ninh",
+                              "15.1": {
+                                "name": "Lệ Thị Nhi - Nguyễn Khương-"
+                              },
+                              "15.2": {
+                                "name": "LÊ Viết Tý (Lệnh Tý)-LÊ Thị Ty",
+                                "16.1": {
+                                  "name": "LÊ Viết Thịnh (Lệnh Thịnh)"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Thị Thủy"
+                                },
+                                "16.3": {
+                                  "name": "LÊ Thị Thảo"
+                                },
+                                "16.4": {
+                                  "name": "LÊ Thị Thi"
+                                }
+                              },
+                              "15.3": {
+                                "name": "LÊ Viết Cống (Lệnh Cống)",
+                                "page": "end"
+                              },
+                              "15.4": {
+                                "name": "LÊ Thị Muộn"
+                              },
+                              "15.5": {
+                                "name": "LÊ Thị Cộng"
+                              }
+                            },
+                            "14.2": {
+                              "name": "LÊ Viết Cơ (Lệnh Cơ)-Nguyễn Thị Rinh-Nguyễn Thị Bến",
+                              "15.1": {
+                                "name": "LÊ Viết Sơn (Lệnh Sơn)",
+                                "16.1": {
+                                  "name": "LÊ Viết Chưởng (Lệnh Chưởng)",
+                                  "17.1": {
+                                    "name": "LÊ Viết Vượng (Lệnh Vượng)"
+                                  }
+                                },
+                                "16.2": {
+                                  "name": "LÊ Viết Tự (Lệnh Tự)",
+                                  "17.1": {
+                                    "name": "LÊ Viết Thế (Lệnh Thế)"
+                                  },
+                                  "17.2": {
+                                    "name": "LÊ Viết Kiệt (Lệnh Kiệt)"
+                                  }
+                                },
+                                "16.3 ": {
+                                  "name": "LÊ Viết Ký (Lệnh Ký)"
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Viết Bảng (Lệnh Bảng)",
+                                "page": "end"
+                              },
+                              "15.3": {
+                                "name": "LÊ Viết Khải (Lệnh Khải)"
+                              },
+                              "15.4": {
+                                "name": "LÊ Thị Nhật"
+                              },
+                              "15.5": {
+                                "name": "LÊ Thị Truyền"
+                              },
+                              "15.6": {
+                                "name": "LÊ Thị Đăng"
+                              }
+                            },
+                            "14.3": {
+                              "name": "LÊ Viết Tơ (Lệnh Tơ)-??? Thị Ngoan-Nguyễn Thị Phan",
+                              "15.1": {
+                                "name": "LÊ Viết Bang (Lệnh Bang)-Nguyễn Thị Hải",
+                                "16.1": {
+                                  "name": "LÊ Viết Tuấn (Lệnh Tuấn)",
+                                  "17.1": {
+                                    "name": "LÊ Lệnh Quang"
+                                  }
+                                },
+                                "16.2": {
+                                  "name": "LÊ Viết Tùng (Lệnh Tùng)"
+                                },
+                                "16.3": {
+                                  "name": "LÊ Thị Huyền"
+                                }
+                              }
+                            },
+                            "14.4": {
+                              "name": "LÊ Thị Ngân - Nguyễn Ẫy",
+                              "15.1": {
+                                "name": "Nguyễn Viết Cối (Lệnh Cối)"
+                              },
+                              "15.2": {
+                                "name": "Nguyễn Viết Cây (Lệnh Cây)"
+                              },
+                              "15.3": {
+                                "name": "Nguyễn Viết Khay (Lệnh Khay)"
+                              },
+                              "15.4": {
+                                "name": "Nguyễn Thị My"
+                              }
+                            }
+                          },
+                          "13.3": {
+                            "name": "Nguyễn Trọng Mơi-LÊ Thị Sứ",
+                            "14.1": {
+                              "name": "Nguyễn Viết Chơi"
+                            },
+                            "14.2": {
+                              "name": "Nguyễn Thị Vướt"
+                            },
+                            "14.3": {
+                              "name": "Nguyễn Thị Nhuận"
+                            }
+                          },
+                          "13.4": {
+                            "name": "Nguyễn Duy Úc-LÊ Thị Nhạ",
+                            "14.1": {
+                              "name": "Nguyễn Viết Tạn"
+                            },
+                            "14.2": {
+                              "name": "Nguyễn Thị Tán"
+                            }
+                          },
+                          "13.5": {
+                            "name": "LÊ Viết Bách (Lệnh Bách)-Vũ Thị Nhặt",
+                            "page": "end"
+                          }
+                        },
+                        "12.2": {
+                          "name": "LÊ Viết Khánh (Lệnh Khánh)-Nguyễn Thị Ởn",
+                          "page": "end",
+                          "13.1": {
+                            "name": "LÊ Thị Tênh"
+                          },
+                          "13.2": {
+                            "name": "LÊ Thị Tớ"
+                          },
+                          "13.3": {
+                            "name": "LÊ Thị Chớ"
+                          }
+                        },
+                        "12.3": {
+                          "name": "LÊ Viết Hanh (Lệnh Hanh)-Nguyễn Thị Vấn-??? Thị Sừ",
+                          "13.1": {
+                            "name": "LÊ Viết Chinh (Lệnh Chinh)-??? Thị Sừ-LÊ Thị Lập",
+                            "14.1": {
+                              "name": "LÊ Viết Cư (Lệnh Cư)-LÊ thị Kim",
+                              "15.1": {
+                                "name": "LÊ Viết Dũng (Lệnh Dũng)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Cường"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Cương"
+                                }
+                              }
+                            },
+                            "14.2": {
+                              "name": "LÊ Thị Cống"
+                            }
+                          }
+                        },
+                        "12.4": {
+                          "name": "Nguyễn Bá Hoằng-LÊ Thị Bày (Bời)",
+                          "13.1": {
+                            "name": "Nguyễn Viết Vệ"
+                          },
+                          "13.2": {
+                            "name": "Nguyễn Viết Tuận"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "9.2": {
+                    "name": "LÊ Thị Hân"
+                  }
+                },
+                "8.4": {
+                  "name": "LÊ Thị Uyển"
+                },
+                "8.5": {
+                  "name": "LÊ Thị Miên"
+                }
+              },
+              "7.2": {
+                "page": 123,
+                "name": "LÊ Viết Du (Lệnh Du)-Nguyễn Thị Đát-Nguyễn Thị Ngân",
+                "8.1": {
+                  "name": "LÊ Viết Viên (Lệnh Thâu)-LÊ Thị Thảo-LÊ Thị Tháp",
+                  "9.1": {
+                    "name": "LÊ Viết Cự (Lệnh Vấn)-Nguyễn Thị Thời",
+                    "page": "end"
+                  },
+                  "9.2": {
+                    "name": "LÊ Lệnh Thiềm (Lệnh Đại)-Nguyễn Thị Tiếm",
+                    "10.1": {
+                      "name": "LÊ Lệnh Chân ",
+                      "page": "end"
+                    }
+                  },
+                  "9.3": {
+                    "name": "LÊ Thị Bình - LÊ Duy Cần",
+                    "page": "ext",
+                    "10.1": {
+                      "name": "LÊ Duy Khoái"
+                    },
+                    "10.2": {
+                      "name": "LÊ Thị Tốt"
+                    },
+                    "10.3": {
+                      "name": "LÊ Thị Đớn"
+                    }
+                  },
+                  "9.4": {
+                    "name": "LÊ Thị Tấn - Nguyễn Trọng Đạt",
+                    "10.1": {
+                      "name": "Nguyễn Trọng Xuyến"
+                    },
+                    "10.2": {
+                      "name": "Nguyễn Thị Đỏ"
+                    }
+                  }
+                },
+                "8.2": {
+                  "name": "LÊ Viết Tiêm (Lệnh Toản)-LÊ Thị Thu-Nguyễn Thị Cư-LÊ Thị Tốt",
+                  "9.1": {
+                    "name": "LÊ Thị Nhiên - Nguyễn Trọng Hồng",
+                    "10.1": {
+                      "name": "Nguyễn Viết Bằng"
+                    },
+                    "10.2": {
+                      "name": "Nguyễn Viết Tạ"
+                    },
+                    "10.3": {
+                      "name": "Nguyễn Viết Trì"
+                    }
+                  },
+                  "9.2": {
+                    "name": "LÊ Viết Chinh (Lệnh Thiệu)-LÊ Thị Đản-??? Thị Lảng",
+                    "page": "end"
+                  },
+                  "9.3": {
+                    "name": "LÊ Viết Rậng (Tứ Trậu)-LÊ Thị Hoạch-???",
+                    "10.1": {
+                      "name": "LÊ Viết Tấn (Lệnh Phổ)",
+                      "11.1": {
+                        "name": "LÊ Viết Chiêu (Lệnh Chiêu)",
+                        "12.1": {
+                          "name": "LÊ Viết Chung (Lệnh Chung)-LÊ Thị Nhỏ",
+                          "13.1": {
+                            "name": "LÊ Viết Lại (Lệnh Lại)",
+                            "page": "end"
+                          },
+                          "13.2": {
+                            "name": "LÊ Viết Lạn (Lệnh Lạn)-LÊ Thị Hạch",
+                            "14.1": {
+                              "name": "LÊ Viết Âu (Lệnh Âu)-LÊ Thị Ngãng",
+                              "page": "end"
+                            },
+                            "14.2": {
+                              "name": "LÊ Viết Doãn (Lệnh Doãn)-LÊ Thị Hổ",
+                              "15.1": {
+                                "name": "LÊ Viết Dẫn (Lệnh Dẫn)-Tăng Thị Nghị (Ngậy)",
+                                "16.1": {
+                                  "name": "LÊ Viết Thông (Lệnh Thông)",
+                                  "page": "end"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Viết Thái (Lệnh Thái)-LÊ Thị Ninh",
+                                  "17.1": {
+                                    "name": "LÊ Lệnh Chung/Công (Lệnh Chung/Công)"
+                                  },
+                                  "17.2": {
+                                    "name": "LÊ Thị Bình"
+                                  },
+                                  "17.3": {
+                                    "name": "LÊ Thị Phương"
+                                  }
+                                },
+                                "16.3": {
+                                  "name": "LÊ Viết Thành (Lệnh Thành)",
+                                  "17.1": {
+                                    "name": "LÊ Viết Tuấn (Lệnh Tuấn)"
+                                  }
+                                },
+                                "16.4": {
+                                  "name": "LÊ Đức Sơn-LÊ Thị Thanh"
+                                },
+                                "16.5": {
+                                  "name": "LÊ Văn Kiệm-LÊ Thị Thảo"
+                                }
+                              }
+                            },
+                            "14.3": {
+                              "name": "???-LÊ Thị Tiến"
+                            }
+                          },
+                          "13.3": {
+                            "name": "LÊ Viết Sán (Lệnh Sán)-LÊ Thị Phiệt",
+                            "14.1": {
+                              "name": "LÊ Viết Vệnh (Lệnh Vệnh)",
+                              "page": "end"
+                            }
+                          },
+                          "13.4": {
+                            "name": "LÊ Thị Tềnh"
+                          }
+                        },
+                        "12.2": {
+                          "name": "LÊ Thị Phức"
+                        },
+                        "12.3": {
+                          "name": "LÊ Thị Tơ"
+                        }
+                      },
+                      "11.2": {
+                        "name": "LÊ Viết Vậy (Lệnh Vậy)",
+                        "page": "end"
+                      },
+                      "11.3": {
+                        "name": "LÊ Thị Thơ",
+                        "page": "ext"
+                      },
+                      "11.4": {
+                        "name": "LÊ Thị Hân"
+                      }
+                    },
+                    "10.2": {
+                      "name": "LÊ Viết Tạo (Lệnh Tạo)",
+                      "page": "end"
+                    },
+                    "10.3": {
+                      "name": "LÊ Thị Khương",
+                      "page": "ext"
+                    },
+                    "10.4": {
+                      "name": "LÊ Viết Đặc (Lệnh Đặc)",
+                      "page": "end"
+                    }
+                  },
+                  "9.4": {
+                    "name": "LÊ Viết Tập (Lênh Quyến)",
+                    "page": "end"
+                  },
+                  "9.5": {
+                    "name": "LÊ Thị Tiếu",
+                    "page": "ext"
+                  },
+                  "9.6": {
+                    "name": "LÊ Thị Tậu",
+                    "page": "ext"
+                  }
+                },
+                "8.3": {
+                  "name": "LÊ Viết Kiều (Lệnh Túc)-Nguyễn Thị Lữ-Nguyễn Thị Chuẩn"
+                },
+                "8.4": {
+                  "name": "Đệ bát thế LÊ Viết Khải (Lệnh Hài)-LÊ Thị Phiên",
+                  "9.1": {
+                    "name": "LÊ Viết Tuấn (Lệnh Giáp)-???-Nguyễn Thị ???",
+                    "10.1": {
+                      "name": "LÊ Thị ???"
+                    },
+                    "10.2": {
+                      "name": "LÊ Thị ???"
+                    },
+                    "10.3": {
+                      "name": "LÊ Viết Hậu (Lệnh Hậu)-???",
+                      "11.1": {
+                        "name": "LÊ Viết Liễu (Lệnh Liễu)",
+                        "page": "end"
+                      }
+                    },
+                    "10.4": {
+                      "name": "LÊ Viết Thuyên (Lệnh Thuyên)-LÊ Thị Thâu",
+                      "11.1": {
+                        "name": "LÊ Viết Biếc (Lệnh Biếc)",
+                        "page": "end"
+                      },
+                      "11.2": {
+                        "name": "LÊ Viết Sênh (Lệnh Sênh)-Nguyễn Thị Chuynh",
+                        "12.1": {
+                          "name": "LÊ Viết Ngởn (Lệnh Ngởn)-LÊ Thị Thó",
+                          "13.1": {
+                            "name": "LÊ Viết Hạng (Lệnh Hạng)-LÊ Thị Vân",
+                            "14.1": {
+                              "name": "LÊ Lệnh Đông - Nguyễn Thị Màn-Kim Thị Cậy",
+                              "15.1": {
+                                "page": "ext",
+                                "name": "LÊ Thị Vui - Hoàng Đình Chuyển",
+                                "16.1": {
+                                  "name": "LÊ Đình Trung"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Đình Luận"
+                                },
+                                "16.3": {
+                                  "name": "LÊ Thị Xuân"
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Thắng - Nguyễn Thị Chào",
+                                "16.1": {
+                                  "name": "LÊ Thị Huệ"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Thị Hương"
+                                },
+                                "16.3": {
+                                  "name": "LÊ Lệnh Hoàng "
+                                },
+                                "16.4": {
+                                  "name": "LÊ Lệnh Hải "
+                                },
+                                "16.5": {
+                                  "name": "LÊ Thị Hợi"
+                                },
+                                "16.6": {
+                                  "name": "LÊ Thị Hạnh"
+                                }
+                              },
+                              "15.3": {
+                                "page": "ext",
+                                "name": "LÊ Ngọc Minh - ??? Huy Thật",
+                                "16.1": {
+                                  "name": "??? Thị Mai"
+                                },
+                                "16.2": {
+                                  "name": "??? Thị Yến"
+                                }
+                              },
+                              "15.4": {
+                                "page": "ext",
+                                "name": "LÊ Kim Thịnh - Đoàn Hải Vân",
+                                "16.1": {
+                                  "name": "Đoàn Hoài Linh"
+                                },
+                                "16.2": {
+                                  "name": "Đoàn Tuấn Long"
+                                }
+                              },
+                              "15.5": {
+                                "page": "ext",
+                                "name": "LÊ Kim Vượng - LÊ Đại Biểu - Bùi Tiến Quân",
+                                "16.1": {
+                                  "name": "Bùi Thị Huyền"
+                                }
+                              },
+                              "15.6": {
+                                "page": "ext",
+                                "name": "LÊ Kim Phương - Trương Quang Hợp-",
+                                "16.1": {
+                                  "name": "Trương Quang Huy"
+                                },
+                                "16.2": {
+                                  "name": "Trương Kim Khánh"
+                                }
+                              },
+                              "15.7": {
+                                "name": "LÊ Hùng "
+                              },
+                              "15.8": {
+                                "page": "ext",
+                                "name": "LÊ Kim Dung - Đỗ Xuân Phong",
+                                "16.1": {
+                                  "name": "Đỗ Xuân Thái"
+                                }
+                              }
+                            },
+                            "14.2": {
+                              "name": "???-LÊ Thị Thu",
+                              "15.1": {
+                                "name": "??? Ân"
+                              },
+                              "15.2": {
+                                "name": "??? Ái"
+                              }
+                            },
+                            "14.3": {
+                              "name": "LÊ Lệnh Sậu - Phan Thị Phương - Trương Thị Nhở",
+                              "15.1": {
+                                "name": "LÊ Hồng Vinh (Lệnh Vinh)-Đường Thị Chúc",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Cường "
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Thọ"
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Hồng Bình (Lệnh Bình)-Nguyễn Thị Thắm",
+                                "16.1": {
+                                  "name": "LÊ Thị Lan"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Khánh (Lệnh Khánh)"
+                                }
+                              },
+                              "15.3": {
+                                "name": "LÊ Quốc Lập (Lệnh Lập)-Tạ Thanh Thủy",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Tài (Lệnh Tài)"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Thu Trang"
+                                }
+                              },
+                              "15.4": {
+                                "name": "LÊ Lệnh Tiến-Nguyễn Thị Ngân",
+                                "16.1": {
+                                  "name": "LÊ Thị Thảo"
+                                }
+                              },
+                              "15.5": {
+                                "name": "LÊ Lệnh Công ",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Hưng"
+                                }
+                              },
+                              "15.6": {
+                                "name": "LÊ Thị Liên"
+                              },
+                              "15.7": {
+                                "name": "LÊ Lệnh Sơn - Nguyễn Thị Thơm",
+                                "16.1": {
+                                  "name": "LÊ Thu Hằng"
+                                }
+                              }
+                            },
+                            "14.4": {
+                              "name": "LÊ Lệnh Cẩn - Đào Thị Chiêu",
+                              "15.1": {
+                                "name": "LÊ Lệnh Thận "
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Thoạng "
+                              },
+                              "15.3": {
+                                "name": "LÊ Lệnh Hòa ",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Hoan "
+                                }
+                              },
+                              "15.4": {
+                                "name": "LÊ Lệnh Thuận ",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Quý "
+                                }
+                              },
+                              "15.5": {
+                                "name": "LÊ Lệnh Năm"
+                              }
+                            },
+                            "14.5": {
+                              "name": "LÊ Lệnh Tuy - Nguyễn Thị Lý",
+                              "15.1": {
+                                "page": "ext",
+                                "name": "LÊ Thị Mai Hồng",
+                                "16.1": {
+                                  "name": "Nguyễn Thị Hiền"
+                                },
+                                "16.2": {
+                                  "name": "Nguyễn Thị Hoa"
+                                },
+                                "16.3": {
+                                  "name": "Nguyễn Thị H"
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Hồng Hà (Lệnh Hà)-Nguyễn Thùy Linh",
+                                "16.1": {
+                                  "name": "LÊ Nguyễn Vi An"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Nguyễn Kim An"
+                                }
+                              },
+                              "15.3": {
+                                "page": "ext",
+                                "name": "LÊ Thị Mai Nga - NGUYỄN Hoàng Thịnh",
+                                "16.1": {
+                                  "name": "NGUYỄN Tất Thành"
+                                },
+                                "16.2": {
+                                  "name": "NGUYỄN Thị Mai"
+                                }
+                              },
+                              "15.4": {
+                                "page": "ext",
+                                "name": "LÊ Thị Huệ - Vũ Văn Thành",
+                                "16.1": {
+                                  "name": "VŨ LÊ Gia Hân"
+                                }
+                              }
+                            }
+                          },
+                          "13.2": {
+                            "name": "LÊ Viết Dựng (Lệnh Dựng)-Phạm Thị Thấng-Nguyễn Thị Rạng-Nguyễn Thị Hương",
+                            "14.1": {
+                              "name": "LÊ Lệnh Soi (Lệnh Soi)-Nguyễn Thị Cúc",
+                              "15.1": {
+                                "name": "LÊ Lệnh Phi (Lệnh Phi)",
+                                "16.1": {
+                                  "name": " Trung Kiên"
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Thị Phượng"
+                              },
+                              "15.3": {
+                                "name": "LÊ Thị Nga"
+                              }
+                            },
+                            "14.2": {
+                              "name": "LÊ Thị Lẳng"
+                            },
+                            "14.3": {
+                              "name": "LÊ Thị Lặng"
+                            },
+                            "14.4": {
+                              "name": "LÊ Thị Lài"
+                            },
+                            "14.5": {
+                              "name": "LÊ Thị Sót"
+                            },
+                            "14.6": {
+                              "name": "LÊ Thị Xuyên"
+                            }
+                          },
+                          "13.3": {
+                            "page": "ext",
+                            "name": "LÊ Thị Vựng - Nguyễn Trọng Đạm",
+                            "14.1": {
+                              "name": "Nguyễn Thị Dâu"
+                            }
+                          }
+                        },
+                        "12.2": {
+                          "name": "LÊ Viết Kẹo (Lệnh Kẹo)-Nguyễn Thị Lén-LÊ Thị Phương",
+                          "page": "end"
+                        },
+                        "12.3": {
+                          "name": "LÊ Thị Thú"
+                        }
+                      },
+                      "11.3": {
+                        "name": "LÊ Thị Thoa - Lưu Đình Trệnh",
+                        "page": "ext"
+                      }
+                    },
+                    "10.5": {
+                      "name": "LÊ Thị ???"
+                    }
+                  },
+                  "9.2": {
+                    "name": "LÊ Viết Phúc (Lệnh Phúc)",
+                    "page": "end"
+                  },
+                  "9.3": {
+                    "name": "LÊ Viết Kiệm (Lệnh Kiệm)",
+                    "page": "end"
+                  },
+                  "9.4": {
+                    "name": "LÊ Thị Cẩm - Nguyễn Bá Chữ",
+                    "page": "ext"
+                  },
+                  "9.5": {
+                    "name": "LÊ Thị Thiềm"
+                  },
+                  "9.6": {
+                    "name": "LÊ Thị Đặng"
+                  },
+                  "9.7": {
+                    "name": "LÊ Thị Đôn"
+                  }
+                },
+                "8.5": {
+                  "page": "ext",
+                  "name": "LÊ Thị Bảng - LÊ Kinh Điển",
+                  "9.1": {
+                    "name": "LÊ Viết Tráng (Kinh Để)"
+                  },
+                  "9.2": {
+                    "name": "LÊ Viết Trình (Kinh Rượu)"
+                  },
+                  "9.3": {
+                    "name": "LÊ Viết Trinh (Kinh Tuân)"
+                  },
+                  "9.4": {
+                    "name": "LÊ Viết Thỉnh (Kinh Tư)"
+                  },
+                  "9.5": {
+                    "name": "LÊ Viết Quyến (Kinh Gốc)"
+                  },
+                  "9.6": {
+                    "name": "LÊ Thị Lẩm"
+                  }
+                },
+                "8.6": {
+                  "page": "ext",
+                  "name": "LÊ Thị Hiệp - Vũ Nguyễn Cơ",
+                  "9.1": {
+                    "name": "Vũ Viết Bang (Nguyễn Trị)"
+                  },
+                  "9.2": {
+                    "name": "Vũ Viết Chỉnh (Nguyễn Kinh)"
+                  },
+                  "9.3": {
+                    "name": "Nguyễn Thị Hòa"
+                  },
+                  "9.4": {
+                    "name": "Nguyễn Thị Mỹ"
+                  }
+                },
+                "8.7": {
+                  "page": "ext",
+                  "name": "LÊ Thị Tăng - Nguyễn Khản",
+                  "9.1": {
+                    "name": "Nguyễn Viết Tiếm (Nguyễn Nhưng)"
+                  },
+                  "9.2": {
+                    "name": "Nguyễn Viết Hoàng ()"
+                  },
+                  "9.3": {
+                    "name": "Nguyễn Viết Điều ()"
+                  },
+                  "9.4": {
+                    "name": "Nguyễn Viết Vểnh ()"
+                  },
+                  "9.5": {
+                    "name": "Nguyễn Viết Chấn ()"
+                  },
+                  "9.6": {
+                    "name": "Nguyễn Viết Khuông ()"
+                  },
+                  "9.7": {
+                    "name": "Nguyễn Viết Dẻn (Nguyễn Kiêu)"
+                  }
+                },
+                "8.8": {
+                  "page": "ext",
+                  "name": "LÊ Thị Tình - Nguyễn Trọng Đề-",
+                  "9.1": {
+                    "name": "Nguyễn Viết Hân ()"
+                  },
+                  "9.2": {
+                    "name": "Nguyễn Viết Chưng ()"
+                  },
+                  "9.3": {
+                    "name": "Nguyễn Viết Kiêu ()"
+                  }
+                }
+              },
+              "7.3": {
+                "name": "Nguyễn Nghi-LÊ Thị Cai"
+              },
+              "7.4": {
+                "name": "Nguyễn Bá Tư-LÊ Thị Giản"
+              }
+            },
+            "6.3": {
+              "page": 145,
+              "name": "LÊ Viết Quang (Lệnh Dự - Đôn Hậu)-Đàm Thị Hưng",
+              "7.1": {
+                "page": 209,
+                "name": "LÊ Viết Triền (Lệnh Huân)",
+                "8.1": {
+                  "name": "LÊ Viết Bầu (Lệnh Bá)",
+                  "page": "end"
+                },
+                "8.2": {
+                  "page": "end",
+                  "name": "LÊ Viết Uyển (Lệnh Tậu)",
+                  "9.1": {
+                    "name": "LÊ Thị Tệnh"
+                  },
+                  "9.2": {
+                    "name": "LÊ Thị Đệnh"
+                  },
+                  "9.3": {
+                    "name": "LÊ Thị Nguyên"
+                  }
+                },
+                "8.3": {
+                  "name": "LÊ Viết Hào (Lệnh Đảo)",
+                  "9.1": {
+                    "name": "LÊ Viết Cảnh (Lệnh Bảo)",
+                    "10.1": {
+                      "name": "LÊ Viết Vẹp (Lệnh Tố)",
+                      "11.1": {
+                        "name": "LÊ Lệnh Chiểu ",
+                        "12.1": {
+                          "name": "LÊ Lệnh Hạp ",
+                          "page": "end"
+                        },
+                        "12.2": {
+                          "name": "LÊ Lệnh Hiệp (Lệnh Hiệp)",
+                          "page": "end"
+                        },
+                        "12.3": {
+                          "name": "LÊ Lệnh Hợp (Lệnh Hợp)",
+                          "page": "end"
+                        },
+                        "12.4": {
+                          "name": "LÊ Lệnh Chiết (Lệnh Chiết)",
+                          "page": "end"
+                        },
+                        "12.5": {
+                          "name": "LÊ Thị Thiệt",
+                          "page": "ext"
+                        }
+                      }
+                    },
+                    "10.2": {
+                      "name": "LÊ Viết Chiếc (Khắc Mẫn)",
+                      "11.1": {
+                        "name": "LÊ Lệnh Suý (Đạo Kiệm)",
+                        "12.1": {
+                          "name": "LÊ Lệnh Soáy (Lệnh Soáy)"
+                        },
+                        "12.2": {
+                          "name": "LÊ Lệnh Tao (Đạo Cẩn)",
+                          "13.1": {
+                            "name": "LÊ Lệnh Loan ()",
+                            "14.1": {
+                              "name": "LÊ Lệnh Kiển ()",
+                              "15.1": {
+                                "name": "LÊ Lệnh Cán ()",
+                                "16.1": {
+                                  "name": "LÊ Viết Bắc ()"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Viết Bình ()"
+                                },
+                                "16.3": {
+                                  "name": "LÊ Thị Tâm"
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Thị Mía"
+                              },
+                              "15.3": {
+                                "name": "LÊ Thị Huế"
+                              }
+                            }
+                          },
+                          "13.2": {
+                            "name": "LÊ Lệnh Nhị (Lệnh Nhị)"
+                          },
+                          "13.3": {
+                            "name": "LÊ Lệnh Lục ()",
+                            "14.1": {
+                              "name": "LÊ Lệnh Cử ()"
+                            },
+                            "14.2": {
+                              "name": "LÊ Lệnh Ửng ()"
+                            },
+                            "14.3": {
+                              "name": "LÊ Lệnh Sứng (Lệnh Sứng)"
+                            },
+                            "14.4": {
+                              "name": "LÊ Lệnh Thơi ()"
+                            },
+                            "14.5": {
+                              "name": "LÊ Lệnh Thảnh ()"
+                            },
+                            "14.6": {
+                              "name": "LÊ Thị Minh"
+                            }
+                          }
+                        },
+                        "12.3": {
+                          "name": "LÊ Lệnh Tiều ()"
+                        },
+                        "12.4": {
+                          "name": "LÊ Lệnh Phiệt ()"
+                        }
+                      },
+                      "11.2": {
+                        "name": "LÊ Lệnh Bảnh (Cương Khắc)",
+                        "12.1": {
+                          "name": "LÊ Lệnh Tiển ",
+                          "page": "end"
+                        },
+                        "12.2": {
+                          "name": "LÊ Thị Quỳ"
+                        },
+                        "12.3": {
+                          "name": "LÊ Lệnh Đèn ",
+                          "13.1": {
+                            "name": "LÊ Lệnh Hân ",
+                            "page": "end"
+                          },
+                          "13.2": {
+                            "name": "LÊ Lệnh Liệu (Lệnh Liệu)",
+                            "14.1": {
+                              "name": "LÊ Lệnh Viêm (Lệnh Viêm)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Thự (Lệnh Thự)"
+                              }
+                            },
+                            "14.2": {
+                              "name": "LÊ Lệnh Viên (Lệnh Viên)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Toàn"
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Thắng"
+                              }
+                            }
+                          },
+                          "13.3": {
+                            "name": "LÊ Lệnh Biêu (Lệnh Biêu)",
+                            "14.1": {
+                              "name": "LÊ Lệnh Cáp",
+                              "15.1": {
+                                "name": "LÊ Lệnh Nghĩa"
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Hiếu"
+                              }
+                            },
+                            "14.2": {
+                              "name": "LÊ Lệnh Lô",
+                              "15.1": {
+                                "name": "LÊ Lệnh Chiến"
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Phương"
+                              }
+                            },
+                            "14.3": {
+                              "name": "LÊ Lệnh Năm",
+                              "15.1": {
+                                "name": "LÊ Lệnh Duy"
+                              }
+                            }
+                          },
+                          "13.4": {
+                            "name": "LÊ Lệnh Chúc ",
+                            "14.1": {
+                              "name": "LÊ Lệnh Hanh (Lệnh Hanh)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Tuấn"
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Tú"
+                              }
+                            },
+                            "14.2": {
+                              "name": "LÊ Lệnh Quýnh (Lệnh Quýnh)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Dũng"
+                              }
+                            },
+                            "14.3": {
+                              "name": "LÊ Lệnh Thành (Lệnh Thành)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Cường"
+                              }
+                            }
+                          },
+                          "13.5": {
+                            "name": "LÊ Lệnh Phong/Phông",
+                            "page": "end"
+                          },
+                          "13.6": {
+                            "name": "LÊ Lệnh Táo (Lệnh Táo)",
+                            "14.1": {
+                              "name": "LÊ Lệnh Trạch (Lệnh Trạch)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Gia"
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Bách"
+                              }
+                            },
+                            "14.2": {
+                              "name": "LÊ Lệnh Yên (Lệnh Yên)"
+                            }
+                          },
+                          "13.7": {
+                            "name": "LÊ Thị Thâu"
+                          }
+                        }
+                      },
+                      "11.3": {
+                        "page": 245,
+                        "name": "LÊ Lệnh Sớn (Lệnh Sớn)",
+                        "12.1": {
+                          "name": "LÊ Thị Thẻ"
+                        },
+                        "12.2": {
+                          "name": "Lệ Lệnh Kiếm (Dư Khương)",
+                          "13.1": {
+                            "name": "LÊ Lệnh Thái ()",
+                            "14.1": {
+                              "name": "LÊ Lệnh Hội ()"
+                            },
+                            "14.2": {
+                              "name": "LÊ Lệnh Do ()"
+                            },
+                            "14.3": {
+                              "name": "LÊ Lệnh Đồng ()"
+                            }
+                          },
+                          "13.2": {
+                            "name": "LÊ Lệnh Hanh ()",
+                            "14.1": {
+                              "name": "LÊ Lệnh Vận ()"
+                            },
+                            "14.2": {
+                              "name": "LÊ Lệnh Đạt ()"
+                            }
+                          },
+                          "13.3": {
+                            "name": "LÊ Lệnh Hoàn ()",
+                            "14.1": {
+                              "name": "LÊ Lệnh Thảo ()"
+                            },
+                            "14.2": {
+                              "name": "LÊ Lệnh Hiền ()"
+                            }
+                          },
+                          "13.4": {
+                            "name": "LÊ Lệnh Oanh (Lệnh Oanh)"
+                          }
+                        },
+                        "12.3": {
+                          "name": "LÊ Lệnh Trác ()",
+                          "13.1": {
+                            "name": "LÊ Lệnh Kểnh ()",
+                            "14.1": {
+                              "name": "LÊ Lệnh Hoài ()",
+                              "15.1": {
+                                "name": "LÊ Lệnh Hởn (Lệnh Hởn)"
+                              }
+                            },
+                            "14.2": {
+                              "name": "LÊ Lệnh Nhờ ()"
+                            }
+                          },
+                          "13.2": {
+                            "name": "LÊ Lệnh Kênh ()",
+                            "14.1": {
+                              "name": "LÊ Lênh Khênh ()"
+                            },
+                            "14.2": {
+                              "name": "LÊ Lệnh Thanh ()"
+                            }
+                          },
+                          "13.3": {
+                            "name": "LÊ Lệnh Đênh ()",
+                            "14.1": {
+                              "name": "LÊ Lệnh Giang ()"
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "10.3": {
+                      "name": "LÊ Thị Bằng"
+                    },
+                    "10.4": {
+                      "name": "LÊ Thị Khuông"
+                    },
+                    "10.5": {
+                      "name": "LÊ Thị Chinh"
+                    }
+                  },
+                  "9.2": {
+                    "name": "LÊ Thị Độ",
+                    "10.1": {
+                      "name": "Nguyễn Thị Mản"
+                    },
+                    "10.2": {
+                      "name": "Nguyễn Thị Vạn"
+                    }
+                  },
+                  "9.3": {
+                    "name": "LÊ Thị Chế",
+                    "10.1": {
+                      "name": "LÊ Viết Tính ()"
+                    },
+                    "10.2": {
+                      "name": "LÊ Thị Quý"
+                    }
+                  },
+                  "9.4": {
+                    "name": "LÊ Thị Lễ"
+                  }
+                },
+                "8.4": {
+                  "name": "LÊ Viết Phúc (Lệnh Bật)",
+                  "9.1": {
+                    "name": "LÊ Viết Cử (Lệnh Trù)",
+                    "page": "end"
+                  }
+                },
+                "8.5": {
+                  "name": "LÊ Viết Lập (Lệnh Kế)",
+                  "9.1": {
+                    "name": "LÊ Viết Tuân/Tân (Lệnh Tuân)",
+                    "page": "end"
+                  },
+                  "9.2": {
+                    "name": "LÊ Viết Vểnh/Vĩnh (Lệnh Vểnh)",
+                    "page": "end"
+                  }
+                },
+                "8.6": {
+                  "name": "LÊ Thị Doãn"
+                },
+                "8.7": {
+                  "name": "LÊ Thị Vực"
+                }
+              },
+              "7.2": {
+                "name": "LÊ Viết Miện (Lệnh Tân)",
+                "8.1": {
+                  "name": "LÊ Lệnh Húc (Lệnh Chất)",
+                  "9.1": {
+                    "name": "LÊ Viết Đểnh (Lệnh Đểnh)",
+                    "10.1": {
+                      "name": "LÊ Viết ??? ",
+                      "11.1": {
+                        "name": "LÊ Viết Toát (Lệnh Toát)",
+                        "12.1": {
+                          "name": "LÊ Viết Nghễ (Lệnh Nghễ",
+                          "page": "end"
+                        }
+                      }
+                    }
+                  },
+                  "9.2": {
+                    "name": "LÊ Thị Viên"
+                  },
+                  "9.3": {
+                    "name": "LÊ Thị Nhiểm"
+                  },
+                  "9.4": {
+                    "name": "LÊ Thị Thiềm"
+                  }
+                },
+                "8.2": {
+                  "name": "LÊ Thị Hiên"
+                },
+                "8.3": {
+                  "name": "LÊ Thị Chân"
+                },
+                "8.4": {
+                  "name": "LÊ Thị Hồng"
+                }
+              },
+              "7.3": {
+                "page": 153,
+                "name": "LÊ Viết Cổn (Lệnh Nho)",
+                "8.1": {
+                  "page": 191,
+                  "name": "LÊ Viết Cơ (Lệnh Tá)",
+                  "9.1": {
+                    "name": "LÊ Lệnh Thích (Lệnh Hoán)",
+                    "10.1": {
+                      "name": "LÊ Viết Đạt (Lệnh Đạt)",
+                      "11.1": {
+                        "name": "LÊ Viết Đệch (Lệnh Đệch)",
+                        "12.1": {
+                          "name": "LÊ Viết Xuyến (Lệnh Xuyến)",
+                          "13.1": {
+                            "name": "LÊ Lệnh Xích (Lệnh Xích)",
+                            "14.1": {
+                              "name": "LÊ Lệnh Lan ",
+                              "15.1": {
+                                "name": "LÊ Lệnh Lưu ",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Thụ (Lệnh Thụ)"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Trung (Lệnh Trung)"
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Thị Tường"
+                              },
+                              "15.3": {
+                                "name": "LÊ Thị ???"
+                              }
+                            },
+                            "14.2": {
+                              "name ": "LÊ Lệnh Tuân",
+                              "page": "end"
+                            },
+                            "14.3 ": {
+                              "name ": "LÊ Lệnh Đan",
+                              "page": "end"
+                            },
+                            "14.4": {
+                              "name": "LÊ Lệnh Cảo ",
+                              "15.1": {
+                                "name": "LÊ Lệnh Tư (Lệnh Tư)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Hải (Lệnh Hải)"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Hưng (Lệnh Hưng)"
+                                }
+                              }
+                            },
+                            "14.5 ": {
+                              "name ": "LÊ Lệnh Do",
+                              "page": "end"
+                            }
+                          },
+                          "13.2": {
+                            "name": "LÊ Thị Tiến",
+                            "14.1": {
+                              "name": "Nguyễn Trọng ???"
+                            },
+                            "14.2": {
+                              "name": "Nguyễn Thị ???"
+                            },
+                            "14.3": {
+                              "name": "Nguyễn Thị ???"
+                            }
+                          }
+                        },
+                        "12.2": {
+                          "name": "LÊ Viết Phẩm (Lệnh Phẩm)",
+                          "13.1": {
+                            "name": "LÊ Lệnh Trắc ",
+                            "14.1": {
+                              "name": "LÊ Lệnh Nhân ",
+                              "15.1": {
+                                "name": "LÊ Lệnh Hùng (Lệnh Hùng)",
+                                "16.1 ": {
+                                  "name": "LÊ Lệnh Hoè"
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Dũng (Lệnh Dũng)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Hải"
+                                }
+                              },
+                              "15.3": {
+                                "name": "LÊ Lệnh Chiến (Lệnh Chiến)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Tuấn"
+                                }
+                              },
+                              "15.4": {
+                                "name": "LÊ Lệnh Châu (Lệnh Châu)",
+                                "16.1 ": {
+                                  "name": "LÊ Lệnh Chinh"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Chương"
+                                }
+                              },
+                              "15.5": {
+                                "name": "LÊ Lệnh Phong (Lệnh Phong)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Lâm"
+                                }
+                              },
+                              "15.6": {
+                                "name": "LÊ Lệnh Trường (Lệnh Trường)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Thuận"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Nam"
+                                }
+                              }
+                            },
+                            "14.2": {
+                              "name": "LÊ Thị Đước"
+                            },
+                            "14.3": {
+                              "name": "LÊ Thị Ước"
+                            }
+                          },
+                          "13.2": {
+                            "name": "LÊ Lệnh Tất ",
+                            "page": "end"
+                          },
+                          "13.3": {
+                            "name": "LÊ Thị Nhược"
+                          }
+                        },
+                        "12.3": {
+                          "name": "LÊ Thị Kiểng"
+                        }
+                      },
+                      "11.2": {
+                        "name": "LÊ Viết Lân (Lệnh Lân)",
+                        "12.1": {
+                          "name": "LÊ Lệnh Bềnh/Bình",
+                          "13.1": {
+                            "name": "LÊ Lệnh Bùng ",
+                            "14.1": {
+                              "name": "LÊ Lệnh Dễnh ",
+                              "15.1": {
+                                "name": "LÊ Lệnh Diệu (Lệnh Diệu)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Linh"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Hậu"
+                                },
+                                "16.3": {
+                                  "name": "LÊ Lệnh Hoàng"
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Hoạt (Lệnh Hoạt)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Hển (Lệnh Hoạt)"
+                                }
+                              },
+                              "15.2 (copy)": {
+                                "name": "LÊ Lệnh Năm (Lệnh Năm)"
+                              }
+                            },
+                            "14.2": {
+                              "name": "LÊ Lệnh Thiệu ",
+                              "15.1": {
+                                "name": "LÊ Lệnh Hà (Lệnh Hà)"
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Hoàn (Lệnh Hoàn)"
+                              }
+                            },
+                            "14.3": {
+                              "name": "LÊ Thị Lai"
+                            },
+                            "14.4": {
+                              "name": "LÊ Thị Tểnh"
+                            },
+                            "14.5": {
+                              "name": "LÊ Thị Thư/Chúc"
+                            }
+                          },
+                          "13.2": {
+                            "name": "LÊ Lệnh Dinh (Lệnh Dinh)",
+                            "page": "end"
+                          }
+                        },
+                        "12.2": {
+                          "name": "LÊ Thị Ôn"
+                        },
+                        "12.3": {
+                          "name": "LÊ Thị Huệ"
+                        },
+                        "12.4": {
+                          "name": "LÊ Thị Tềnh"
+                        }
+                      },
+                      "11.3": {
+                        "name": "LÊ Thị Tham"
+                      }
+                    }
+                  },
+                  "9.2": {
+                    "name": "LÊ Viết Bồi (Lệnh Bồi)",
+                    "10.1": {
+                      "name": "LÊ Lệnh Hạnh ",
+                      "11.1": {
+                        "name": "LÊ Lệnh Toại ",
+                        "12.1": {
+                          "name": "LÊ Lệnh Nhạ",
+                          "page": "end"
+                        },
+                        "12.2": {
+                          "name": "LÊ Lệnh Vồm",
+                          "page": "end"
+                        },
+                        "12.3": {
+                          "name": "LÊ Lệnh Đào",
+                          "page": "end"
+                        },
+                        "12.4": {
+                          "name": "LÊ Lệnh Luận ",
+                          "page": "end"
+                        },
+                        "12.5": {
+                          "name": "LÊ Thị Trăm"
+                        }
+                      },
+                      "11.2": {
+                        "page": "end",
+                        "name": "LÊ Lệnh Thúy ",
+                        "12.1": {
+                          "name": "LÊ Thị ???"
+                        }
+                      },
+                      "11.3": {
+                        "name": "LÊ Lệnh Điện (Lệnh Điện)",
+                        "12.1": {
+                          "name": "LÊ Lệnh Vàng ",
+                          "page": "end"
+                        }
+                      }
+                    },
+                    "10.2": {
+                      "name": "LÊ Thị Phó"
+                    },
+                    "10.3": {
+                      "name": "LÊ Thị Hoàng"
+                    }
+                  },
+                  "9.3": {
+                    "name": "LÊ Thị Nghị"
+                  },
+                  "9.4": {
+                    "name": "LÊ Thị Thảng"
+                  }
+                },
+                "8.2": {
+                  "name": "LÊ Viết Hiệp (Lệnh Thể)",
+                  "9.1": {
+                    "page": "end",
+                    "name": "LÊ Lệnh Tấn (Minh Thiện)",
+                    "10.1": {
+                      "name": "LÊ Thị Thâu",
+                      "page": "ext"
+                    }
+                  }
+                },
+                "8.3": {
+                  "page": 159,
+                  "name": "LÊ Viết Triệu (Lệnh Ưu)",
+                  "9.1": {
+                    "name": "LÊ Lệnh Chẩm (Lệnh Giáp)",
+                    "10.1": {
+                      "name": "LÊ Viết Đình ",
+                      "page": "end"
+                    },
+                    "10.2": {
+                      "name": "LÊ Viết Thâu ",
+                      "page": "end"
+                    },
+                    "10.3": {
+                      "name": "LÊ Thị Kính"
+                    },
+                    "10.4": {
+                      "name": "LÊ Thị Hoa"
+                    },
+                    "10.5": {
+                      "name": "LÊ Thị Nhị"
+                    }
+                  },
+                  "9.2": {
+                    "name": "LÊ Lệnh Tạ (Lệnh Điền)",
+                    "10.1": {
+                      "name": "LÊ Lệnh Viện",
+                      "11.1": {
+                        "name": "LÊ Viết Tuyên (Lệnh Tuyên)",
+                        "12.1": {
+                          "name": "LÊ Viết ??? ",
+                          "page": "end"
+                        }
+                      },
+                      "11.2": {
+                        "name": "LÊ Viết Dưỡng (Lệnh Dưỡng)",
+                        "12.1": {
+                          "name": "LÊ Viết Quýnh (Lệnh Quýnh)",
+                          "page": "end"
+                        },
+                        "12.2": {
+                          "name": "LÊ Viết Hai (Lệnh Hai)",
+                          "13.1": {
+                            "name": "LÊ Viết Trạch/Trịnhnh (Lệnh Trạch)",
+                            "page": "end"
+                          },
+                          "13.2": {
+                            "name": "LÊ Viết Đinh (Lệnh Đệnh)",
+                            "page": "end"
+                          },
+                          "13.3": {
+                            "name": "LÊ Viết Châu (Lệnh Châu)",
+                            "page": "end"
+                          },
+                          "13.4": {
+                            "name": "LÊ Viết Âu (Lệnh Âu)",
+                            "page": "end"
+                          }
+                        }
+                      },
+                      "11.3": {
+                        "name": "LÊ Thị ???"
+                      }
+                    },
+                    "10.2": {
+                      "name": "LÊ Thị ???",
+                      "page": "ext"
+                    },
+                    "10.3": {
+                      "name": "LÊ Thị ???",
+                      "page": "ext"
+                    },
+                    "10.4": {
+                      "name": "LÊ Viết Tậu (Lệnh Tậu)",
+                      "11.1": {
+                        "name": "LÊ Viết Chuốc (Lệnh Chuốc)",
+                        "page": "end"
+                      },
+                      "11.2": {
+                        "name": "LÊ Viết Quản (Lệnh Quản)",
+                        "page": "end"
+                      },
+                      "11.3": {
+                        "name": "LÊ Viết Vinh/Vệnh (Lệnh Vệnh)",
+                        "page": "end"
+                      },
+                      "11.4": {
+                        "name": "LÊ Viết Hán (Lệnh Hán)",
+                        "page": "end"
+                      },
+                      "11.5": {
+                        "name": "LÊ Viết Tọa (Lệnh Toạ)",
+                        "12.1": {
+                          "name": "LÊ Lệnh Cầu ",
+                          "13.1": {
+                            "name": "LÊ Lệnh Khoa ",
+                            "14.1": {
+                              "name": "LÊ Lệnh Vun ",
+                              "15.1": {
+                                "name": "LÊ Lệnh Tuấn ",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Tiến "
+                                }
+                              }
+                            },
+                            "14.2": {
+                              "name": "LÊ Lệnh Quây ",
+                              "15.1": {
+                                "name": "LÊ Lệnh Tùng "
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Linh "
+                              }
+                            },
+                            "14.3": {
+                              "name": "LÊ Lệnh Đắp ",
+                              "15.1": {
+                                "name": "LÊ Lệnh Đạo ",
+                                "page": "end"
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Ngọc "
+                              }
+                            },
+                            "14.4": {
+                              "name": "LÊ Lệnh San/Xoang (Lệnh San)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Thanh"
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Hà"
+                              }
+                            },
+                            "14.5": {
+                              "name": "LÊ Lệnh Hồng "
+                            },
+                            "14.6": {
+                              "name": "LÊ Thị Dòng"
+                            }
+                          }
+                        },
+                        "12.2": {
+                          "name": "LÊ Thị Yểng"
+                        },
+                        "12.3": {
+                          "name": "LÊ Thị Điền"
+                        }
+                      },
+                      "11.6": {
+                        "name": "LÊ Viết Cù (Lệnh Cù)",
+                        "12.1": {
+                          "name": "LÊ Lệnh Kích ",
+                          "13.1": {
+                            "name": "LÊ Thị Thinh"
+                          },
+                          "13.2": {
+                            "name": "LÊ Thị Thang"
+                          },
+                          "13.3": {
+                            "name": "LÊ Thị Ban"
+                          },
+                          "13.4": {
+                            "name": "LÊ Thị Han"
+                          },
+                          "13.5": {
+                            "name": "LÊ Lệnh Xoan ",
+                            "page": "end"
+                          }
+                        },
+                        "12.2": {
+                          "name": "LÊ Lệnh Các",
+                          "page": "end"
+                        },
+                        "12.3": {
+                          "name": "LÊ Lệnh Tốn ",
+                          "13.1": {
+                            "name": "LÊ Lệnh Tô",
+                            "14.1": {
+                              "name": "LÊ Lệnh Thanh (Lệnh Thanh)"
+                            }
+                          },
+                          "13.2": {
+                            "name": "LÊ Lệnh Vinh ",
+                            "14.1": {
+                              "name": "LÊ Lệnh Quang (Lệnh Quang)"
+                            },
+                            "14.2": {
+                              "name": "LÊ Lệnh Thiên (Lệnh Thiên)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Thái (Lệnh Thái)"
+                              }
+                            },
+                            "14.3": {
+                              "name": "LÊ Lệnh Ca (Lệnh Ca)"
+                            }
+                          },
+                          "13.3": {
+                            "name": "LÊ Thị Loa"
+                          },
+                          "13.4": {
+                            "name": "LÊ Thị Tểnh"
+                          }
+                        },
+                        "12.4": {
+                          "name": "LÊ Thị Uốn"
+                        },
+                        "12.5": {
+                          "name": "LÊ Thị Yến"
+                        },
+                        "12.6": {
+                          "name": "LÊ Lệnh Mận ",
+                          "13.1": {
+                            "name": "LÊ Lệnh Lần ",
+                            "14.1": {
+                              "name": "LÊ Lệnh Tuấn (Lệnh Tuấn)"
+                            },
+                            "14.2": {
+                              "name": "LÊ Lệnh Lợi (Lệnh Lợi)"
+                            }
+                          },
+                          "13.2": {
+                            "name": "LÊ Lệnh Hựu ",
+                            "14.1": {
+                              "name": "LÊ Lệnh Huy (Lệnh Huy)"
+                            }
+                          },
+                          "13.3": {
+                            "name": "LÊ Lệnh Điện ",
+                            "14.1": {
+                              "name": "LÊ Lệnh Văn (Lệnh Văn)"
+                            },
+                            "14.2": {
+                              "name": "LÊ Lệnh Vương (Lệnh Vương)"
+                            }
+                          },
+                          "13.4": {
+                            "name": "LÊ Thị Hảo"
+                          }
+                        }
+                      },
+                      "11.7": {
+                        "name": "LÊ Viết Phổ (Lệnh Phổ)",
+                        "page": "end"
+                      },
+                      "11.8": {
+                        "name": "LÊ Viết Thiện (Lệnh Thiện)",
+                        "12.1": {
+                          "name": "LÊ Lệnh Huyên ",
+                          "page": "end"
+                        },
+                        "12.2": {
+                          "name": "LÊ Lệnh Khuyên ",
+                          "page": "end"
+                        },
+                        "12.3": {
+                          "name": "LÊ Lệnh Quyên (Lệnh Quyên)",
+                          "13.1": {
+                            "name": "LÊ Lệnh Nhẩm ",
+                            "14.1": {
+                              "name": "LÊ Lệnh Nhật (Lệnh Nhật)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Huỳnh (Lệnh Huỳnh)"
+                              }
+                            }
+                          },
+                          "13.2": {
+                            "name": "LÊ Lệnh Thong ",
+                            "14.1": {
+                              "name": "LÊ Lệnh Hà (Lệnh Hà)"
+                            },
+                            "14.2": {
+                              "name": "LÊ Lệnh Hoà (Lệnh Hoà)"
+                            },
+                            "14.3": {
+                              "name": "LÊ Lệnh Thuận (Lệnh Thuận)"
+                            }
+                          },
+                          "13.3": {
+                            "name": "LÊ Thị Dong"
+                          }
+                        }
+                      },
+                      "11.9": {
+                        "name": "LÊ Thị Câu"
+                      },
+                      "11.10": {
+                        "name": "LÊ Thị Nhàn"
+                      },
+                      "11.11": {
+                        "name": "LÊ Thị Tồn"
+                      },
+                      "11.12": {
+                        "name": "LÊ Viết Huy (Lệnh Riệu)",
+                        "page": "end"
+                      }
+                    }
+                  },
+                  "9.3": {
+                    "name": "LÊ Lệnh Xuyền ",
+                    "10.1": {
+                      "name": "LÊ Đoan Chính ",
+                      "11.1": {
+                        "name": "LÊ Lệnh Sòng ",
+                        "12.1": {
+                          "name": "LÊ Lệnh Trấn ",
+                          "13.1": {
+                            "name": "LÊ Lệnh Thuỳ ",
+                            "14.1": {
+                              "name": "LÊ Lệnh Thẩn ",
+                              "15.1": {
+                                "name": "LÊ Lệnh Đồng ",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Tiên ",
+                                  "page": "end"
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Đồng Lực "
+                              },
+                              "15.3": {
+                                "name": "LÊ Thị Bồng"
+                              },
+                              "15.4": {
+                                "name": "LÊ Lệnh Tự",
+                                "page": "end"
+                              }
+                            },
+                            "14.2": {
+                              "name": "LÊ Lệnh Nhẩn ",
+                              "page": "???"
+                            },
+                            "14.3": {
+                              "name": "LÊ Thị Thơ"
+                            },
+                            "14.4": {
+                              "name": "LÊ Thị Hải"
+                            }
+                          },
+                          "13.2": {
+                            "name": "LÊ Thị Ngấn"
+                          }
+                        },
+                        "12.2": {
+                          "name": "LÊ Lệnh Ngăn",
+                          "13.1": {
+                            "name": "LÊ Lệnh Bá ",
+                            "14.1": {
+                              "name": "LÊ Lệnh Thường ",
+                              "15.1": {
+                                "name": "LÊ Lệnh Lọc (Lệnh Lọc)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Tám (Lệnh Tám)"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Thành (Lệnh Thành)"
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Tuấn/Thuấn (Lệnh Tuấn)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Thắng (Lệnh Thắng)"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Minh (Lệnh Minh)"
+                                }
+                              }
+                            },
+                            "14.2": {
+                              "name": "LÊ Thị Dàn"
+                            },
+                            "14.3": {
+                              "name": "LÊ Thị Chét"
+                            }
+                          }
+                        },
+                        "12.3": {
+                          "name": "LÊ Thị Khơi"
+                        },
+                        "12.4": {
+                          "name": "LÊ Thị Ngơi"
+                        },
+                        "12.5": {
+                          "name": "LÊ Thị Dốt"
+                        },
+                        "12.6": {
+                          "name": "LÊ Thị Dốn"
+                        },
+                        "12.7": {
+                          "name": "LÊ Thị Thắng"
+                        }
+                      },
+                      "11.2": {
+                        "name": "LÊ Lệnh Ngật ",
+                        "12.1": {
+                          "name": "LÊ Lệnh Vỹ (Lệnh Vỹ)",
+                          "page": "end"
+                        },
+                        "12.2": {
+                          "name": "LÊ Lệnh Kỷ ",
+                          "page": "end"
+                        }
+                      },
+                      "11.3": {
+                        "name": "LÊ Thị Hy"
+                      }
+                    }
+                  },
+                  "9.4": {
+                    "name": "LÊ Thị Đào",
+                    "page": "ext"
+                  }
+                },
+                "8.4": {
+                  "name": "LÊ Thị Cảnh"
+                },
+                "8.5": {
+                  "name": "LÊ Thị Biền"
+                },
+                "8.6": {
+                  "name": "LÊ Thị Tung"
+                }
+              },
+              "7.4": {
+                "page": 269,
+                "name": "LÊ Viết Lảng (Lệnh Luân)",
+                "8.1": {
+                  "name": "LÊ Nghiêm (Lệnh Mậu)",
+                  "9.1": {
+                    "name": "LÊ Lệnh Hằng ",
+                    "page": "end"
+                  },
+                  "9.2": {
+                    "name": "LÊ Lệnh Ninh (Lệnh Khang)",
+                    "10.1": {
+                      "name": "LÊ Lệnh Chương (Lệnh Chương)",
+                      "11.1": {
+                        "page": 389,
+                        "name": "LÊ Lệnh Nho (Lệnh Nho)",
+                        "12.1": {
+                          "page": 314,
+                          "name": "LÊ Lệnh Chẩm (Lệnh Chẩm)",
+                          "13.1": {
+                            "name": "LÊ Lệnh Tuyên (Lệnh Tuyên)",
+                            "14.1": {
+                              "name": "LÊ Lệnh Chiến/Chiêm (Lệnh Chiến)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Nhị (Lệnh Nhị)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Oanh (Lệnh Oanh)",
+                                  "17.1": {
+                                    "name": "LÊ Lệnh Sao (Lệnh Sao)"
+                                  },
+                                  "17.2": {
+                                    "name": "LÊ Lệnh Hùng"
+                                  }
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Dũng (Lệnh Dũng)",
+                                  "17.1": {
+                                    "name": "LÊ Lệnh Dương (Lệnh Dương)"
+                                  }
+                                },
+                                "16.3": {
+                                  "name": "LÊ Lệnh Trương (Lệnh Trương)",
+                                  "17.1": {
+                                    "name": "LÊ Lệnh Giang (Lệnh Giang)"
+                                  },
+                                  "17.2": {
+                                    "name": "LÊ Lệnh Nam (Lệnh Nam)"
+                                  }
+                                },
+                                "16.4": {
+                                  "name": "LÊ Lệnh Cường (Lệnh Cường)"
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Xảo/Sảo (Lệnh Xảo)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Tơ/Tư (Lệnh Tư)",
+                                  "17.1": {
+                                    "name": "LÊ Lệnh Tuấn (Lệnh Tuấn)",
+                                    "18.1": {
+                                      "name": "LÊ Lệnh Anh"
+                                    }
+                                  }
+                                }
+                              },
+                              "15.3": {
+                                "name": "LÊ Lệnh Vinh (Lệnh Vinh)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Quang (Lệnh Quang)"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Tuấn (Lệnh Tuấn)"
+                                },
+                                "16.3": {
+                                  "name": "LÊ Lệnh Dũng (Lệnh Dũng)"
+                                }
+                              },
+                              "15.4": {
+                                "name": "LÊ Lệnh Thỉnh (Lệnh Thỉnh)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Phương (Lệnh Phương)",
+                                  "17.1": {
+                                    "name": "LÊ Lệnh Hùng (Lệnh Hùng)"
+                                  }
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Hiếu (Lệnh Hiếu)",
+                                  "17.1": {
+                                    "name": "LÊ Lệnh Huynh"
+                                  }
+                                }
+                              }
+                            },
+                            "14.2": {
+                              "name": "LÊ Lệnh Ấm (Lệnh Ấm)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Á (Lệnh Á)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Quyền (Lệnh Quyền)"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Sang (Lệnh Sang)",
+                                  "17.1": {
+                                    "name": "LÊ Lệnh Khoa"
+                                  }
+                                },
+                                "16.3": {
+                                  "name": "LÊ Lệnh Sáng (Lệnh Sáng)",
+                                  "17.1": {
+                                    "name": "LÊ Lệnh Long"
+                                  }
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Ái (Lệnh Ái)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Hải (Lệnh Hải)",
+                                  "17.1": {
+                                    "name": "LÊ Lệnh Dương "
+                                  }
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Hưng (Lệnh Hưng)",
+                                  "17.1": {
+                                    "name": "LÊ Lệnh Anh"
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "12.2": {
+                          "page": 315,
+                          "name": "LÊ Lệnh Xuân (Lệnh Xuân)",
+                          "13.1": {
+                            "name": "LÊ Lệnh Hoàn (Lệnh Hoàn)",
+                            "14.1": {
+                              "name": "LÊ Lệnh Đính (Lệnh Đính)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Lương (Lệnh Lương)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Long (Lệnh Long)"
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Hùng (Lệnh Hùng)",
+                                "page": "end"
+                              }
+                            },
+                            "14.2": {
+                              "name": "LÊ Lệnh Kính (Lệnh Kính)",
+                              "15.1": {
+                                "16": {
+                                  "name": "LÊ Lệnh Minh"
+                                },
+                                "name": "LÊ Lệnh Đức (Lệnh Đức)"
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Thanh (Lệnh Thanh)"
+                              },
+                              "15.3": {
+                                "name": "LÊ Lệnh Phong (Lệnh Phong)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Tùng"
+                                }
+                              }
+                            },
+                            "14.3": {
+                              "name": "LÊ Lệnh Khánh (Lệnh Khánh)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Đạo (Lệnh Đạo)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Quân (Lệnh Quân)"
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Thắng (Lệnh Thắng)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Chiến"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Chung"
+                                }
+                              },
+                              "15.3": {
+                                "name": "LÊ Lệnh Thức/Thư (Lệnh Thức)"
+                              },
+                              "15.4": {
+                                "name": "LÊ Lệnh Thám (Lệnh Thám)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Thàng"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Đạt"
+                                }
+                              },
+                              "15.5": {
+                                "name": "LÊ Lệnh Thi (Lệnh Thi)"
+                              },
+                              "15.6": {
+                                "name": "LÊ Lệnh Phùng (Lệnh Phùng)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Tiến)"
+                                }
+                              },
+                              "15.7": {
+                                "name": "LÊ Lệnh Tuấn/Tuân (Lệnh Tuấn)"
+                              }
+                            }
+                          }
+                        },
+                        "12.3": {
+                          "name": "LÊ Lệnh Hội (Lệnh Hội)",
+                          "13.1": {
+                            "name": "LÊ Lệnh Kim (Lệnh Kim)",
+                            "page": "end"
+                          }
+                        },
+                        "12.4": {
+                          "page": 289,
+                          "name": "LÊ Lệnh Viết (Lệnh Viết)",
+                          "13.1": {
+                            "name": "LÊ Lệnh Dong (Lệnh Dong)",
+                            "14.1": {
+                              "name": "LÊ Lệnh Đoái (Lệnh Đoái)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Long (Lệnh Long)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Khiêm"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Hân"
+                                }
+                              }
+                            },
+                            "14.2": {
+                              "name": "LÊ Lệnh Hoà (Lệnh Hoà)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Vận (Lệnh Vận)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Điệp",
+                                  "page": "end"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Đạt"
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Tuế (Lệnh Tuế)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Thắng"
+                                }
+                              },
+                              "15.3": {
+                                "name": "LÊ Lệnh Dũng (Lệnh Dũng)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Duy"
+                                }
+                              }
+                            },
+                            "14.3": {
+                              "name": "LÊ Lệnh Nhung (Lệnh Nhung)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Tuấn (Lệnh Tuấn)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Văn (Lệnh Văn)"
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Cường (Lệnh Cường)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Hiệu"
+                                }
+                              }
+                            }
+                          },
+                          "13.2": {
+                            "name": "LÊ Lệnh Trọng (Lệnh Trọng)",
+                            "14.1": {
+                              "name": "LÊ Lệnh Du (Lệnh Du)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Như/Nhự (Lệnh Như)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Hải (Lệnh Hải)",
+                                  "17.1": {
+                                    "name": "LÊ Lệnh Minh (Lệnh Hải)"
+                                  }
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Thành (Lệnh Thành)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Việt",
+                                  "page": "end"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Thạnh (Lệnh Thạnh)",
+                                  "17.1": {
+                                    "name": "LÊ Lệnh Tùng"
+                                  }
+                                }
+                              }
+                            },
+                            "14.2": {
+                              "name": "LÊ Lệnh Phàn (Lệnh Phàn)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Ý (Lệnh Ý)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Hùng"
+                                }
+                              }
+                            },
+                            "14.3": {
+                              "name": "LÊ Lệnh Thứ (Lệnh Thứ)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Sơn (Lệnh Sơn)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Thủy (Lệnh Thủy)",
+                                  "17.1": {
+                                    "name": "LÊ Lệnh Quân"
+                                  }
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Thức (Lệnh Thức)"
+                                }
+                              }
+                            },
+                            "14.4": {
+                              "name": "LÊ Lệnh Be (Lệnh Be)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Bình (Lệnh Bình)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Thắng (Lệnh Thắng)",
+                                  "17.1": {
+                                    "name": "LÊ Lệnh Tiến"
+                                  },
+                                  "17.2": {
+                                    "name": "LÊ Lệnh Toàn"
+                                  }
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Lợi (Lệnh Lợi)",
+                                  "17.1": {
+                                    "name": "LÊ Lệnh Tuyên"
+                                  }
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Chè (Lệnh Chè)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Luận/Luận (Lệnh Luận)"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Lương (Lệnh Lương)"
+                                }
+                              },
+                              "15.3": {
+                                "name": "LÊ Lệnh Chén",
+                                "page": "end"
+                              }
+                            },
+                            "14.5": {
+                              "name": "LÊ Lệnh Đáo (Lệnh Đáo)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Hoan",
+                                "page": "end"
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Lân (Lệnh Lân)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Trường (Lệnh Trường)",
+                                  "17.1": {
+                                    "name": "LÊ Lệnh Hoàng"
+                                  }
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Sinh (Lệnh Sinh)"
+                                }
+                              },
+                              "15.3": {
+                                "name": "LÊ Lệnh Phùng (Lệnh Phùng)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Dũng (Lệnh Dũng)"
+                                }
+                              }
+                            }
+                          },
+                          "13.3": {
+                            "name": "LÊ Lệnh Duy/Dị (Lệnh Dị)",
+                            "14.1": {
+                              "name": "LÊ Lệnh Thao (Lệnh Thao)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Thanh",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Gáp"
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Phú (Lệnh Phú)",
+                                "page": "end"
+                              },
+                              "15.3": {
+                                "name": "LÊ Lệnh Cường (Lệnh Cường)"
+                              },
+                              "15.4": {
+                                "name": "LÊ Lệnh Quý (Lệnh Quý)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Quyền"
+                                }
+                              },
+                              "15.5": {
+                                "name": "LÊ Lệnh Năm (Lệnh Năm)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Sáng"
+                                }
+                              },
+                              "15.6": {
+                                "name": "LÊ Lệnh Nhâm (Lệnh Nhâm)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Nhất"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Khoa"
+                                }
+                              }
+                            },
+                            "14.2": {
+                              "name": "LÊ Lệnh Tu (Lệnh Tu)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Tấn (Lệnh Tấn)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Toàn (Lệnh Toàn)"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Quân (Lệnh Quân)"
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Tám/Tam (Lệnh Tám)",
+                                "page": "end"
+                              }
+                            }
+                          },
+                          "13.4": {
+                            "name": "LÊ Lệnh Kiến (Lệnh Kiến)",
+                            "page": "end"
+                          }
+                        }
+                      },
+                      "11.2": {
+                        "name": "LÊ Lệnh Lữ (Lệnh Lữ)",
+                        "12.1": {
+                          "name ": "LÊ Lệnh Lức",
+                          "13.1": {
+                            "name": "LÊ Lệnh Nhã (Lệnh Nhã)",
+                            "13.1": {
+                              "name": "LÊ Lệnh Nhi (Lệnh Nhi)",
+                              "page": "end"
+                            },
+                            "13.2": {
+                              "name": "LÊ Lệnh Tho (Lệnh Tho)",
+                              "14.1": {
+                                "name": "LÊ Lệnh Sáu (Lệnh Sáu)",
+                                "page": "end"
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "11.3": {
+                        "name": "LÊ Lệnh Xước (Lệnh Xước)",
+                        "12.1": {
+                          "name": "LÊ Lệnh Khê/Khuê (Lệnh Khê)",
+                          "13.1": {
+                            "name": "LÊ Lệnh Quế (Lệnh Quế)",
+                            "14.1": {
+                              "name": "LÊ Lệnh Sâm (Lệnh Sâm)",
+                              "page": "end"
+                            },
+                            "14.2": {
+                              "name": "LÊ Lệnh Hợp (Lệnh Hợp)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Lập (Lệnh Lập)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Hùng (Lệnh Hùng)",
+                                  "17.1": {
+                                    "name": "LÊ Lệnh Dũng (Lệnh Dũng)"
+                                  }
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Ngãi/Nghĩa (Lệnh Ngãi)",
+                                  "17.1": {
+                                    "name": "LÊ Lệnh Quân"
+                                  }
+                                },
+                                "16.3": {
+                                  "name": "LÊ Lệnh Nghìn (Lệnh Nghìn)",
+                                  "17.1": {
+                                    "name": "LÊ Lệnh Thiện"
+                                  }
+                                },
+                                "16.4": {
+                                  "name": "LÊ Lệnh Triệu (Lệnh Triệu)"
+                                },
+                                "16.5": {
+                                  "name": "LÊ Lệnh Phương/Thương (Lệnh Phương)"
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Tập (Lệnh Tập)",
+                                "page": "end"
+                              },
+                              "15.3": {
+                                "name": "LÊ Lệnh Đống (Lệnh Đống)",
+                                "page": "end"
+                              },
+                              "15.4": {
+                                "name": "LÊ Lệnh Mới (Lệnh Mới)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Huy (Lệnh Huy)",
+                                  "17.1": {
+                                    "name": "LÊ Lệnh Đạt"
+                                  }
+                                }
+                              }
+                            }
+                          },
+                          "13.2": {
+                            "name": "LÊ Lệnh Hòe (Lệnh Hòe)",
+                            "page": "end"
+                          }
+                        },
+                        "12.2": {
+                          "name": "LÊ Lệnh Nong/Nông (Lệnh Nong)",
+                          "13.1": {
+                            "name": "LÊ Lệnh Ngọ (Lệnh Ngọ)",
+                            "14.1": {
+                              "name": "LÊ Lệnh Như (Lệnh Như)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Hải/Hải (Lệnh Hải)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Anh"
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Hà (Lệnh Hà)"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "10.2": {
+                      "name": "LÊ Lệnh Tư (Lệnh Tư)",
+                      "11.1": {
+                        "name": "LÊ Lệnh Tương (Lệnh Tương)",
+                        "12.1": {
+                          "name": "LÊ Lệnh Cớn (Lệnh Cớn)",
+                          "13.1": {
+                            "name": "LÊ Lệnh Mạnh (Lệnh Mạnh)",
+                            "14.1": {
+                              "name": "LÊ Lệnh Phụng (Lệnh Phụng)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Sơn",
+                                "page": "end"
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Hoạt",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Hiệu"
+                                }
+                              }
+                            },
+                            "14.2": {
+                              "name": "LÊ Lệnh Tinh/Tịnh (Lệnh Tinh)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Tường (Lệnh Tường)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Hùng"
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Khải (Lệnh Khải)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Cương"
+                                }
+                              },
+                              "15.3": {
+                                "name": "LÊ Lệnh Quang (Lệnh Quang)"
+                              }
+                            },
+                            "14.3": {
+                              "name": "LÊ Lệnh Hưởng (Lệnh Hưởng)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Ân (Lệnh Ân)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Thắng"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Nam"
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Tân (Lệnh Tân)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Tiến"
+                                }
+                              }
+                            },
+                            "14.4": {
+                              "name": "LÊ Lệnh Tông (Lệnh Tông)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Tuấn (Lệnh Tuấn)"
+                              }
+                            },
+                            "14.5": {
+                              "name": "LÊ Lệnh Toan (Lệnh Toan)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Tùng (Lệnh Tùng)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Tưởng"
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Tá (Lệnh Tá)"
+                              },
+                              "15.3": {
+                                "name": "LÊ Lệnh Ngoan (Lệnh Ngoan)"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "9.3": {
+                    "name": "LÊ Lệnh Hoàn/Hoan",
+                    "10.1": {
+                      "name": "LÊ Lệnh Lương (Lệnh Phúc)",
+                      "11.1": {
+                        "name": "LÊ Lệnh Thai (Lệnh Thai)",
+                        "12.1": {
+                          "name": "LÊ Lệnh Hựu (Lệnh Hựu)",
+                          "page": "end"
+                        },
+                        "12.2": {
+                          "name": "LÊ Lệnh Xoán (Lệnh Xoán)",
+                          "page": "end"
+                        },
+                        "12.3": {
+                          "name": "LÊ Lệnh Sai (Lệnh Sai)",
+                          "13.1": {
+                            "name": "LÊ Lệnh Hiên (Lệnh Hiên)",
+                            "14.1": {
+                              "name": "LÊ Lệnh Vẹn (Lệnh Vẹn)",
+                              "15.1": {
+                                "name": "LÊ Lệnh Long (Lệnh Long)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Cao (Lệnh Cao)"
+                                },
+                                "16.2": {
+                                  "name": "LÊ Lệnh Quân"
+                                }
+                              },
+                              "15.2": {
+                                "name": "LÊ Lệnh Thủy (Lệnh Thủy)",
+                                "16.1": {
+                                  "name": "LÊ Lệnh Chính/Chung (Lệnh Chính)"
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "12.4": {
+                          "name": "LÊ Lệnh Vân (Lệnh Vân)",
+                          "page": "end"
+                        },
+                        "12.5": {
+                          "name": "LÊ Lệnh Xương (Lệnh Xương)",
+                          "page": "end"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "7.5": {
+                "name": "LÊ Viết Liêm (Lệnh Vẩy)",
+                "8.1": {
+                  "name": "LÊ Viết Hựu (Lệnh Hựu)",
+                  "9.1": {
+                    "name": "LÊ Viết Đam (Lệnh Quýnh)",
+                    "page": "end"
+                  },
+                  "9.2": {
+                    "name": "LÊ Viết Tăng (Lênh Tinh)",
+                    "page": "end"
+                  }
+                }
+              },
+              "7.6": {
+                "name": "LÊ Viết Thự (Lệnh Hoàn)",
+                "8.1": {
+                  "name": "LÊ Viết Lữ (Lệnh Giặt)",
+                  "page": "end"
+                },
+                "8.2": {
+                  "name": "LÊ Viết Luật (Lệnh Thiêm)",
+                  "page": "end"
+                },
+                "8.3": {
+                  "name": "LÊ Viết Kính (Lệnh Thanh)",
+                  "page": "end"
+                },
+                "8.4": {
+                  "name": "LÊ Thị Duyên",
+                  "page": "ext"
+                }
+              },
+              "7.7": {
+                "name": "LÊ Thị Hoa"
+              },
+              "7.8": {
+                "name": "LÊ Thị Huyền"
+              }
+            },
+            "6.4": {
+              "name": "LÊ Thị Hiển"
+            },
+            "6.5": {
+              "name": "Nguyên Công Bá-LÊ Thị Sắc",
+              "7.1": {
+                "name": "Nguyễn Thiếu Khanh"
+              },
+              "7.2": {
+                "name": "Nguyễn Công Nghẻm",
+                "8.1": {
+                  "name": "Nguyễn Khản (tri phủ)",
+                  "9.1": {
+                    "name": "Nguyễn Nhưng (phó binh quan)",
+                    "10.1": {
+                      "name": "Nguyễn Yên"
+                    },
+                    "10.2": {
+                      "name": "Nguyễn Dong"
+                    }
+                  }
+                }
+              }
+            },
+            "6.6": {
+              "name": "Nguyễn Đình Côn-LÊ Thị Dịch",
+              "7.1": {
+                "name": "Nguyễn Đình Bân"
+              },
+              "7.2": {
+                "name": "Nguyễn Đình Trực"
+              }
+            }
+          }
+        },
+        "4.2": {
+          "name": "LÊ Phúc (Minh Đạt)-Vũ Thị Nữ",
+          "5.1": {
+            "name": "LÊ Viết Phụng (Lệnh Cử)"
+          },
+          "5.2": {
+            "name": "LÊ Viết Bầu (Lệnh Bầu)",
+            "6.1": {
+              "name": "LÊ Thị Ngất"
+            }
+          },
+          "5.3": {
+            "name": "LÊ Viết Tiễn (Minh Tiễn)",
+            "6.1": {
+              "name": "LÊ Minh Đại",
+              "7.1": {
+                "name": "LÊ Lệnh Trạc"
+              },
+              "7.2": {
+                "name": "LÊ Lệnh Đa"
+              }
+            },
+            "6.2": {
+              "name": "LÊ Viết Ngô (Minh Ngô)"
+            },
+            "6.3": {
+              "name": "LÊ Viết Nam (Minh Nam)"
+            },
+            "6.4": {
+              "name": "LÊ Viết Giáp (Lệnh Giai)",
+              "7.1": {
+                "name": "LÊ Viết Chạc (Lệnh Chạc)"
+              },
+              "7.2": {
+                "name": "LÊ Viết Đa (Lệnh Đa)"
+              }
+            }
+          },
+          "5.4": {
+            "name": "LÊ Thị Cố"
+          },
+          "5.5": {
+            "name": "LÊ Thị Công"
+          }
+        },
+        "4.3": {
+          "name": "Mỹ xương Lọc Trung Bá-LÊ Thị Chiêu"
+        },
+        "4.4": {
+          "name": "Thanh Húy Hán Xuyên Bá-LÊ Thị Nga"
+        }
+      }
+    }
+  }
+}
